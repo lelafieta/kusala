@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "392791670315",
+    "project_id": "kusala-app",
+    "storage_bucket": "kusala-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392791670315:android:7706c699227ccdc642f46e",
+        "android_client_info": {
+          "package_name": "com.example.kusala"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUo0anWP3OfTlwsWpoL9xsKHhZxMPQ1Uw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
