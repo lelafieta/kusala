@@ -1,16 +1,19 @@
-# kusala
+# Kusala - Amizade na viagem
 
-A new Flutter project.
+Uma aplicações para compartilhar com pessoas que estão na mesma viagem e com pessoas que já visitaram um determinado lugar
 
-## Getting Started
+## Application Architecture
 
-This project is a starting point for a Flutter application.
+Application is build with Clean Architecture
 
-A few resources to get you started if this is your first Flutter project:
+# App Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Login Authentication UI
+...
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1727778168](https://github.com/user-attachments/assets/e354f85d-8252-4d41-98a1-d407f4d1029e)
+![Screenshot_1727778164](https://github.com/user-attachments/assets/730532e5-c5ba-4434-b282-4f404f36b7b9)
+![Screenshot_1727778158](https://github.com/user-attachments/assets/44638f3f-17fd-4dad-8195-a539c5e8ec52)
+![Screenshot_1727778155](https://github.com/user-attachments/assets/cfbe08b9-f75c-430e-97cb-5c416597e687)
+![Screenshot_1727778148](https://github.com/user-attachments/assets/f13d38d5-782e-4323-90f2-5910fb44f400)
+![Screenshot_1727778140](https://github.com/user-attachments/assets/6c65c7eb-ce35-45f1-9ee1-a8a343c12124)
